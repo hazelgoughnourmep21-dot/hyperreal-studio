@@ -1,0 +1,7 @@
+{
+  "name": "HyperReal Character Studio",
+  "description": "A high-fidelity concept art and character design generator using Imagen 3 and Gemini, featuring medical-grade anatomical analysis and cinematic lighting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
